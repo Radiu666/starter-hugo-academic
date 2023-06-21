@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: RadiumX # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
@@ -73,3 +73,18 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+# cascade:
+#   # Configure blog posts
+#   - _target:
+#       path: /post/**
+#     pager: true
+#     editable: true
+#     reading_time: true
+#     commentable: true
+#     show_related: true
+#     show_breadcrumb: true
+#     share: true
+#     header:
+#       navbar:
+#         enable: false
