@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Lei Xia 夏镭
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Lei
+last_name: Xia
 
 # Status emoji
 status:
