@@ -37,7 +37,7 @@ education:
     #   institution: Stanford University
     #   year: 2012
     - course: MEng in Computer Technology
-      institution: henzhen Institute Of Advanced Technology, UCAS
+      institution: Shenzhen Institute Of Advanced Technology, UCAS
       year: 2021
     - course: BSc in Food Science And Engineering
       institution: Sichuan University
@@ -69,9 +69,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'radium.xia@gmail.com'
@@ -81,5 +81,5 @@ highlight_name: true
 ---
 
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-Lei Xia is a postgraduate student in SIAT. He research interests include probabilistic model reinforcement learning and unmanned surface vehicles, besides database and distributed system.
+Lei Xia is a postgraduate student in SIAT. His research interests include probabilistic model reinforcement learning and unmanned surface vehicles, besides database and distributed system.
 {style="text-align: justify;"}
